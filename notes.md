@@ -14,7 +14,8 @@ Cmd Shift V - preview md files
 (mkdir <project-name>, cd <project-name>)  
 git init 
 
-git status 
+git status  
+
 git add  
 git commit -m <description> 
 
