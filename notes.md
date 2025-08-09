@@ -25,3 +25,5 @@ git add someDir/*java git add someDir/
 git add "*java" 
 
 git log  
+git diff  
+git diff <Commit_id>  
